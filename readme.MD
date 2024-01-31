@@ -62,7 +62,7 @@ A Telegram CC Checker Bot with hella lotta features.
 
 ### Hosting on Server [MySQL DB Required]
 
- - Download the Files from [Here](https://github.com/iam-NVN/SDMN_CheckerBot/archive/refs/heads/main.zip)
+ - Download the Files from [Here](https://github.com/sanhtet1324/SDMN_CheckerBot/edit/main/readme.MD)
  - Upload it to your Server and Extract it
  - Edit config/config.php file and set Admin ID, Logs ID, DB Credentials and SK Keys
  - Import checkerbot.sql file into your Database through PHPmyAdmin
